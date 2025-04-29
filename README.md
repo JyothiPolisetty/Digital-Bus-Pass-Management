@@ -1,3 +1,3 @@
 # Digital-Bus-Pass-Management
-hi hello
-```
+To run the server use this command
+```python manage.py runserver```
